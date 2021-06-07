@@ -45,3 +45,7 @@ fetch(pull)   : git pull origin master
 git push -u origin master
 
 git push origin --delete branchname
+
+
+To get more information click on the below link
+https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
